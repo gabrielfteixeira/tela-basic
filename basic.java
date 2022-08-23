@@ -48,9 +48,6 @@ public class atividade {
 			}
 			
 		}
-		
-		
-		
 		//calculo dos viuvos
 		for (int y = 0; y < 20; y++) {
 			mediaIdadeViuvos = mediaIdadeViuvos + idadeViuvos[y];
